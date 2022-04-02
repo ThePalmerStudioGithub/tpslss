@@ -1,0 +1,3 @@
+Internet Connection Test:
+✔Passed
+ Everything's good.
